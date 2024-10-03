@@ -52,12 +52,12 @@ Na parte final, foram implementadas melhorias, validações e funcionalidades ad
 ## Como Executar o Projeto
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/efood.git
+    git clone https://github.com/seu-usuario/EBAC_PROJETO6.git
     ```
 
 2. Instale as dependências:
     ```bash
-    cd efood
+    cd EBAC_PROJETO6
     npm install
     ```
 
